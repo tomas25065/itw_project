@@ -249,7 +249,6 @@ h3{
     background: -o-linear-gradient(bottom, #515BD4, #8134AF, #DD2A7B, #FEDA77, #F58529);
     background: -moz-linear-gradient(bottom, #515BD4, #8134AF, #DD2A7B, #FEDA77, #F58529);
     background: linear-gradient(to bottom, #515BD4 , #8134AF, #DD2A7B, #FEDA77, #F58529);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
