@@ -274,12 +274,11 @@ h3{
     }
 
     nav {
-        width: 150px;
+        width: 15%;
     }
 
     nav a{
         padding: 25px;
-
     }
 
     nav a:nth-child(even){
@@ -288,6 +287,10 @@ h3{
     }
     nav a:nth-child(odd){
         display: none;
+    }
+
+    nav a img{
+        width: 100%;
     }
 
     main{
